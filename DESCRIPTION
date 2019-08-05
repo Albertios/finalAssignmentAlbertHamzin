@@ -1,0 +1,12 @@
+Package: finalAssignmentAlbertHamzin
+Type: Package
+Title: Visualizion of SenseBox Data 
+Version: 0.1.0
+Author: Albert Hamzin <a_hamz01@wwu.de>
+Maintainer: Albert Hamzin <a_hamz01@wwu.de>
+Description: The use of senseBox data to visualize the data on a map.
+    The visualization is done as Kriging and the temperature can be converted as Fahrenheit and Celsius.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
